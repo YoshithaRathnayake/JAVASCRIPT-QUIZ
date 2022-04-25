@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-# <div align="center"><img src="images/Quiz Time.jpg" width="300px"></div>
+# <div align="center"><img src="assets/img/Quiz Time.jpg" width="300px"></div>
 
 
 > This is the Quiz that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
