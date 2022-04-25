@@ -1,8 +1,8 @@
+# <div align="center"><a href="https://yoshitharathnayake.github.io/JAVASCRIPT-QUIZ"><b><i>WELCOME!, TO MY JAVASCRIPT QUIZ</i></b></a></div> 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-# <div align="center"><a href="https://yoshitharathnayake.github.io/JAVASCRIPT-QUIZ"><b><i>WELCOME!, TO MY JAVASCRIPT QUIZ</i></b></a></div> 
 
 > This is the Quiz that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 
