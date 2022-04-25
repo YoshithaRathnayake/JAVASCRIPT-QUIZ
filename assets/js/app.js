@@ -57,7 +57,7 @@ function Quiz() {
     let question5 = prompt("5. What is the biggest desert in the world?");
     let answer5 = "Sahara Desert";
     if (question5 == answer5) {
-        alert("Great! You are correct. 2 marks.");
+        alert("Great! You are correct. 2 marks. Thank You for answering My Questions");
     } else {
         alert("You are wrong! Answer : Sahara Desert");
     }
