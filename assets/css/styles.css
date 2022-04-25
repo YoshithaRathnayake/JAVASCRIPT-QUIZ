@@ -1,1 +1,77 @@
+/* Quiz Body */
 
+body {
+    background-color: #34FF00;
+    animation: rainbow 5s infinite;
+}
+
+/* Quiz Body Color Animation */
+
+@keyframes rainbow {
+    40% {
+        background-color: #00FFE7;
+    }
+
+    50% {
+        background-color: #00FFC6;
+    }
+
+    60% {
+        background-color: #00FF74;
+    }
+
+    70% {
+        background-color: #00FF04;
+    }
+
+    80% {
+        background-color: #FBFF00;
+    }
+
+    90% {
+        background-color: #FF0000;
+    }
+
+    100% {
+        background-color: #FF00ED;
+    }
+}
+
+
+/* Quiz Title */
+
+.quiz-title {
+    font-size: 60px;
+    margin: 60px;
+    color: blue;
+}
+
+/* Quiz Title Hover Effect */
+
+.quiz-title:hover {
+    cursor: pointer;
+    color: red;
+    transition: 1s;
+}
+
+
+/* Quiz Description */
+
+.quiz-description {
+    font-size: 25px;
+    margin: 20px;
+}
+
+
+/* Quiz Image */
+
+.quiz-img {
+    margin: 50px;
+}
+
+
+/* Quiz Marquee */
+
+.quiz-marquee {
+    font-size: 25px;
+}
