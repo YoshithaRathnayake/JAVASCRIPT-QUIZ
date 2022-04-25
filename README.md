@@ -6,7 +6,7 @@
 
 # <div align="center"><img src="images/Quiz Time.jpg" width="300px"></div>
 
-#
+
 > This is the Quiz that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 
 > I made this Project when I was 13 years old (Grade 8D).
